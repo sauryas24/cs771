@@ -31,7 +31,10 @@
 
 /* --- gallery.html Styles --- */
 .gallery-body {
-    background-color: #fafafa;
+     background-image: url('photos/background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     font-family: sans-serif;
     color: #333;
 }
